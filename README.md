@@ -9,6 +9,10 @@ The code has NOT been polished and is provided "as is". There are a lot of code 
 # Screenshot
 ![W102018TV NADZOR BOT](https://i.imgur.com/pRTvV39.png)
 
+# Plans
+add mini games
+add varn system
+
 ## Credits
 Feralcas : w102018tv.xyz
 WIN102018TV : https://vk.com/w102018_tv
