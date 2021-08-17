@@ -14,7 +14,7 @@ add mini games
 add varn system
 
 ## Credits
-Feralcas : w102018tv.xyz
+Feralcas : https://w102018tv.xyz
 WIN102018TV : https://vk.com/w102018_tv
 
 ## Author
