@@ -11,8 +11,8 @@ The code has NOT been polished and is provided "as is". There are a lot of code 
 
 ## Credits
 Feralcas : w102018tv.xyz
-WIN102018TV : vk.com/w102018_tv
+WIN102018TV : https://vk.com/w102018_tv
 
 ## Author
 (C) 2021 Aleksei Baltikov.
-https:/w102018tv.xyz
+https://w102018tv.xyz
