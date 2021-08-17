@@ -1,8 +1,18 @@
-# WIN102018TV-NADZOR
-Простой и красивый а также удобный в использовании бот
-# Про код
-Код представлен как есть вы можите его доробатовать
-# Лицензия 
-Вы можите его спокойно использовать с указание авторских прав
-# Версии
-Сейчас данный репозиторий на версии v 1.0
+# 🔗w102018tv-nadzor
+The Moderator and fan bot for you discord server
+# Description
+Personal bot, made for easy server moderation.  
+Adds reporting functionality, profanity filtering (both english & russian languages are supported),
+More of that, the bot code & functions can be easily extended and/or limited as you prefer.
+
+The code has NOT been polished and is provided "as is". There are a lot of code that are redundant and there are tons of improvements that can be made.
+# Screenshot
+![W102018TV NADZOR BOT](https://i.imgur.com/pRTvV39.png)
+
+## Credits
+Feralcas : w102018tv.xyz
+WIN102018TV : vk.com/w102018_tv
+
+## Author
+(C) 2021 Aleksei Baltikov.
+https:/w102018tv.xyz
